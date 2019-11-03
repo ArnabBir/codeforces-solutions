@@ -5,7 +5,8 @@
 using namespace std;
 
 int main() {
-
+	
+	fastIO;
 	int t, a, b, c, x;
 	cin>>t;
 	while(t--) {
